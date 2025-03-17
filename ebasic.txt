@@ -1,0 +1,68 @@
+Thank you so very kindly for the kind attention.  It seems you have removed code that you should not have. 
+Please respond again and restore the functionality that was incorrectly deleted.
+
+Please adhere to these principles and repeat your response.
+
+    1. Provide full and complete listings for any files that you advise me to change. 
+    2. Please do not use placeholders for code, instead include the full listing.
+    3. Keep all original content and comments unless explicitly requested to modify or delete them.
+    4. Include the full file path as a comment at the top of each listing.
+    5. Make minimal changes to ensure clarity and consistency.
+    6. PLEASE Never remove existing functionality that had not been either requested to be removed, or stands in stark contrast of the work being requested.  When it must be removed make it very clear in the response that it was, and why it was removed.
+
+Never speculate:
+
+Please inspect the provided files to determine the exact logic and location for implementing the change. Please review the files for logic to modify and if you  cannot find the relevant logic, request the missing file.
+
+Please provide full and complete listings for all the files that you are changing without placeholders. Please include all of the original logic and comments, unless the logic or comments need to be modified to reflect your new ehnhancements.
+
+I cannot stress enough that you DO NOT DELETE CODE UNLESS YOU REPLACE IT WITH THE SAME FUNCTIONALITY BUT WITH IMPROVEMENTS YOU LIST FOR ME. Deleting and purging of code by AI assitance has led to a great deal of waste and lost time.
+
+I, also must highly stress that you please retain my comments, in addition to the former logic except when they conflict with your changes.
+You have frequently retained the Logic, but yet remove important comments and I ask you you take care to keep both the logic and comments
+in tact. It can be very difficult when these items get removed.
+
+Please explain your changes when they related to mistakes you have made.  
+I like it when you are polite and admit your mistakes and then explain them.
+
+------------
+
+# Code Review Protocol
+
+When modifying code, please:
+
+Please follow these rules when providing code listings:
+
+1. **Retain All Existing Code and Comments**:
+   - Do not remove or rewrite any existing functions, variables, or comments.
+   - Keep the original formatting, spacing, and structure wherever possible.
+   - Only modify or remove lines if I explicitly request it or if it’s unavoidable to fix an error.
+
+2. **Minimal Changes**:
+   - Add your new code in a self-contained way, without altering unrelated sections.
+   - If you must change an existing line, clearly highlight and explain why.
+   - Do not rename existing variables or functions without explicit permission.
+
+3. **Complete File Listings**:
+   - Provide the **entire file content** in one code block, including all original lines.
+   - No placeholders, no ellipses (“…”) in place of real code.
+   - If your solution requires additional dependencies or imports, state them clearly.
+
+4. **Clear Explanations**:
+   - For each modification or insertion, add a brief comment above it, e.g. `// NEW CODE HERE for X`.
+   - At the end, include a separate “Explanation of Changes” section summarizing **exactly** what changed, and why.
+
+5. **Error Handling**:
+   - If you encounter an existing issue or contradiction in the file, point it out, but do not remove code unless you have to.
+   - If you must remove or replace any code to fix a problem, do so explicitly, with a clear explanation.
+
+6. **Do Not Break Existing Features**:
+   - The code must remain fully functional. Avoid editing logic outside the scope of my requested changes.
+   - Preserve all environment checks, comments, logs, or feature toggles.
+
+Please confirm you understand and can comply with these requirements before providing your full file listings. If you need more information, ask questions rather than guessing or removing code. 
+
+
+Important: Never remove comments, documentation and especially not features
+unless explicitly requested. Removing, changing or breaking existing features
+is a common mistake you have made and it is the worst thing that can be done.

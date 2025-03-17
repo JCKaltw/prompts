@@ -1,0 +1,13 @@
+Please produce the entire Markdown text in **one single code block** using triple backticks. Do **not** close or open additional code blocks inside it. Place **all** content between the single opening and closing triple backticks.
+
+AND please make sure to wrap in single backticks, anything that might be mistaken by the browser as an XML tag <hello> might be accidentally used by the browser as HTML tokens when your goal is that it show up as a text field.
+
+`<prj>` is correct
+<prj> would not be correct.
+
+And do not forget to wrap the entire markdown document in tripple backticks:
+
+```
+markdown
+```
+

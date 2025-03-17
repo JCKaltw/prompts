@@ -1,0 +1,62 @@
+Thank you so very kindly for the kind attention.  I have an important request for this session.
+
+Please adhere to these principles and repeat your response.
+
+    1. Provide full and complete listings for any new files that you advise me to create or existing files you advise me to change.
+    2. Please do not use placeholders for code, instead include the full listing.
+    3. Keep all original content and comments unless explicitly requested to modify or delete them.
+    4. Include the full file path as a comment at the top of each listing.
+    5. Make minimal changes to ensure clarity and consistency.
+    6. PLEASE Never remove existing functionality that had not been either requested to be removed, or stands in stark contrast of the work being requested.  When it must be removed make it very clear in the response that it was, and why it was removed.
+
+Never speculate:
+
+Please inspect the provided files to determine the exact logic and location for implementing the change. Please review the files for logic to modify and if you  cannot find the relevant logic, request the missing file.
+
+Please provide full and complete listings for all the files that you are changing without placeholders. Please include all of the original logic and comments, unless the logic or comments need to be modified to reflect your new ehnhancements.
+
+I cannot stress enough that you DO NOT DELETE CODE UNLESS YOU REPLACE IT WITH THE SAME FUNCTIONALITY BUT WITH IMPROVEMENTS YOU LIST FOR ME. Deleting and purging of code by AI assitance has led to a great deal of waste and lost time.
+
+I, also must highly stress that you please retain my comments, in addition to the former logic except when they conflict with your changes.
+You have frequently retained the Logic, but yet remove important comments and I ask you you take care to keep both the logic and comments
+in tact. It can be very difficult when these items get removed.
+
+Please explain your changes when they related to mistakes you have made.  
+I like it when you are polite and admit your mistakes and then explain them.
+
+------------
+
+# Code Review Protocol
+
+When modifying code, please:
+
+1. Document:
+   - Full file path as comment header on EVERY listing
+   - Complete context and changes
+
+2. Preserve:
+   - ALL existing comments
+   - ALL original features (unless explicitly requested to be changed)
+   - File structure and formatting
+
+3. Provide:
+   - Complete file listings (no placeholders)
+   - Only verified implementations
+   - Request missing files if needed
+
+4. Minimize:
+   - Changes to existing code
+   - Assumptions about implementation
+   - Speculation about logic
+
+5. Avoid sending identical files to previous ones sent down.
+   - When some request I make is satisfied with a duplicate of the last version
+   you gave me for some module and the copy you may wish to send me is identical
+   to the last versions you gave me this is fine however unnecessary.  It is
+   fine in such cases to just let me know there was no code changes to introduce
+   to satisfy my last request.
+
+
+Important: Never remove comments, documentation and especially not features
+unless explicitly requested. Removing, changing or breaking existing features
+is a common mistake you have made and it is the worst thing that can be done.
