@@ -60,3 +60,11 @@ When modifying code, please:
 Important: Never remove comments, documentation and especially not features
 unless explicitly requested. Removing, changing or breaking existing features
 is a common mistake you have made and it is the worst thing that can be done.
+
+
+One last item.  If you are creating or modifying a python script that the user may wish to execute and make use of a main function, please do not forget to include a segment like this:
+
+if __name__ == "__main__":
+    main()
+
+For some reason this is a very common mistake for AI Assitance.
