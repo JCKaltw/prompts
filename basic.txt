@@ -2,7 +2,7 @@ Thank you so very kindly for the kind attention.  I have an important request fo
 
 Please adhere to these principles and repeat your response.
 
-    1. Provide full and complete listings for any new files that you advise me to create or existing files you advise me to change.
+    1. Provide full and complete listings, in your artifact viewer, for any new files that you advise me to create or existing files you advise me to change.
     2. Please do not use placeholders for code, instead include the full listing.
     3. Keep all original content and comments unless explicitly requested to modify or delete them.
     4. Include the full file path as a comment at the top of each listing.
